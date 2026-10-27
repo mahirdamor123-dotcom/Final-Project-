@@ -53,6 +53,4 @@ The CSV is Titanic passenger training data mirrored by Data Science Dojo at [the
 The project can be published in a repository named `titanic-survival-analysis`. Include the code, README, requirements, CSV, charts, and report so visitors can inspect the complete run. After creating an empty GitHub repository, connect and push with:
 
 ```powershell
-git remote add origin https://github.com/YOUR-USERNAME/titanic-survival-analysis.git
-git push -u origin main
-```
+
